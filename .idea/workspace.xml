@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e216f882-57fb-4841-886e-ca0eada24715" name="Changes" comment="pollo">
+    <list default="true" id="e216f882-57fb-4841-886e-ca0eada24715" name="Changes" comment="finito">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ES_mxn2_bollettino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ES_mxn2_bollettino.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712920322760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finito">
+      <option name="closed" value="true" />
+      <created>1712920636101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712920636101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pollo" />
-    <option name="LAST_COMMIT_MESSAGE" value="pollo" />
+    <MESSAGE value="finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="finito" />
   </component>
 </project>
