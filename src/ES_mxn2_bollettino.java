@@ -44,6 +44,7 @@ public class ES_mxn2_bollettino {
     }
 
 
+
     //ESERCIZIO 5)
 
     public static void sommaElementiRiga(int[][] mxn, int[] Array) {
