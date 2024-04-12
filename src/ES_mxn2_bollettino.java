@@ -177,3 +177,4 @@ public class ES_mxn2_bollettino {
         }
     }
 }
+
